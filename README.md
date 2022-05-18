@@ -45,7 +45,7 @@ It can be found [here](https://github.com/indicwiki-iiit/Birds/tree/main/curDir)
 
 ### data
 
-> Github folder Link: <https://github.com/Mahanth-Maha/indicwiki_birds/tree/main/curDir/data>
+> Github folder Link: <https://github.com/indicwiki-iiit/Birds/tree/main/curDir/data>
 
 - This folder contains various datasets (final and intermediate), and the implementations as to how they were obtained. Different formats of the dataset are present as follows (like csv, excel etc):
   - _Birds.csv_  → This is a csv file containing all the data related to birds.
@@ -57,7 +57,7 @@ It can be found [here](https://github.com/indicwiki-iiit/Birds/tree/main/curDir)
 
 ### scrape_new_data
 
-> Github folder Link: <https://github.com/Mahanth-Maha/indicwiki_birds/tree/main/curDir/scrape_data>
+> Github folder Link: <https://github.com/indicwiki-iiit/Birds/tree/main/curDir/scrape_data>
 
 - This folder contains implementation and datasets corresponding to newly scraped data from different websites. There are 2 folders within this folder they are:
 
@@ -83,7 +83,7 @@ It can be found [here](https://github.com/indicwiki-iiit/Birds/tree/main/curDir)
   
 ### assets
 
-> Github folder Link: <https://github.com/Mahanth-Maha/indicwiki_birds/tree/main/curDir/scrape_data/assets>
+> Github folder Link: <https://github.com/indicwiki-iiit/Birds/tree/main/curDir/scrape_data/assets>
 
 - This folder contains datasets corresponding to newly scraped data from different websites in units and code which can be recreated using python notebooks and merge them into a single dataset.
 	- DataZone → This folder contains data of birds from the DataZone site, in which we got all then unique 12000+ birds to work on.
@@ -102,14 +102,14 @@ It can be found [here](https://github.com/indicwiki-iiit/Birds/tree/main/curDir)
 
 ### Translation
 
-> Github folder Link: <https://github.com/Mahanth-Maha/indicwiki_birds/tree/main/curDir/scrape_data/Translation>
+> Github folder Link: <https://github.com/indicwiki-iiit/Birds/tree/main/curDir/scrape_data/Translation>
 
 - This folder contains the backups, for every big progress in translation in dataset
 	- Kaggle_out This folder contains all the out puts from the kaggle.com , which provides a GPU resource which speeds up translation.
 
 ### Template
 
-> Github folder Link: <https://github.com/Mahanth-Maha/indicwiki_birds/tree/main/curDir/Template>
+> Github folder Link: <https://github.com/indicwiki-iiit/Birds/tree/main/curDir/Template>
 
 - This folder .
   - _birds.j2_  → This file consists of the improved template to generate wikitext provided a bird's data, corresponding to latest dataset
