@@ -118,5 +118,5 @@ It can be found [here](https://github.com/indicwiki-iiit/Birds/tree/main/curDir)
 
 ### Contributors
 
-Students : Akshitha , Mahanth
-Student Mentors : Jayaprakash Aluri, Bala Bhavana K
+- Students : Akshitha , Mahanth
+- Student Mentors : Jayaprakash Aluri, Bala Bhavana K
