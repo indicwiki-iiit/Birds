@@ -45,7 +45,9 @@ It can be found [here](https://github.com/indicwiki-iiit/Birds/tree/main/curDir)
 
 ### data
 
+
 > Github folder Link: <https://github.com/indicwiki-iiit/Birds/tree/main/curDir/data>
+> Project Demo Video : [Click here](https://www.youtube.com/watch?v=NR27ezvJV_4)
 
 - This folder contains various datasets (final and intermediate), and the implementations as to how they were obtained. Different formats of the dataset are present as follows (like csv, excel etc):
   - _Birds.csv_  → This is a csv file containing all the data related to birds.
@@ -113,3 +115,8 @@ It can be found [here](https://github.com/indicwiki-iiit/Birds/tree/main/curDir)
 
 - This folder .
   - _birds.j2_  → This file consists of the improved template to generate wikitext provided a bird's data, corresponding to latest dataset
+
+### Contributors
+
+Students : Akshitha , Mahanth
+Student Mentors : Jayaprakash Aluri, Bala Bhavana K
